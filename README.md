@@ -1,2 +1,10 @@
-# API-E-Learning-Trivus-
-Trivus API is a backend system for managing courses and quizzes, tracking student progress and scores, and displaying a leaderboard to encourage competition.
+# doc API
+
+## authentcation
+https://documenter.getpostman.com/view/42798028/2sAYdkJ9cK
+
+## paths
+https://documenter.getpostman.com/view/42798028/2sB2cVg2hD
+
+## quizesystem
+https://documenter.getpostman.com/view/42798028/2sAYkErfwC
